@@ -2,9 +2,9 @@
   <header>
     <nav>
       <ul>
-        <li><a href="#">{{ $t('nav.home') }}</a></li>
-        <li><a href="#">{{ $t('nav.about') }}</a></li>
-        <li><a href="#">{{ $t('nav.contact') }}</a></li>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Contact</a></li>
       </ul>
     </nav>
   </header>

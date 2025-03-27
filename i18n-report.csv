@@ -1,0 +1,9 @@
+Key,Chinese (zh),English (en),Module,Description
+home.greeting,,,home,
+home.welcome,,,home,
+home.logout,,,home,
+login.welcome,,,login,
+login.instruction,,,login,
+login.username,,,login,
+login.password,,,login,
+login.submit,,,login,
